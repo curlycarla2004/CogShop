@@ -1,0 +1,143 @@
+.sb-sidenav-footer, #searchButton {
+    background-color: #cb9d32 !important;
+}
+
+.navbar, .sb-sidenav-menu, #footer {
+    background-color: black !important;
+}
+
+.nav, .navbar-brand, #card-title{
+    font-family: 'Playfair Display SC', serif;
+    font-size: x-large;
+}
+
+#MonCompte, #placeholderSearch, #footer{
+    font-family: 'Playfair Display SC', serif;
+    font-size: medium;
+}
+
+.sb-sidenav-dark .sb-sidenav-menu .nav-link {
+    color: antiquewhite;
+}
+.linkedin{
+    color: #271d0b !important;
+}
+a:hover{
+    color: #cb9d32 !important;
+}
+
+#sidefooter{
+    font-family: 'Playfair Display SC', serif;
+    color: #271d0b;
+}
+
+#row{
+    position: relative;
+}
+
+#robe{
+        position: absolute;
+        top: 68.5%;
+        left: 16.5%;
+        transform: translate(-50%,-50%);
+}
+
+main , body{
+    background-color: #271d0b;
+}
+
+#btnshop{ 
+    background-color:  black !important;
+    color: antiquewhite;
+    font-family: 'Playfair Display SC', serif;
+}
+
+#card-text ,h2{
+    font-family: 'Playfair Display SC', serif;
+    font-size: xx-large;
+}
+
+#card-text ,h4{
+    font-family: 'Playfair Display SC', serif;
+    font-size: x-large;
+}
+
+#layoutAuthentication_content{
+    background: url("../images/lightwall.jpg") no-repeat;
+    background-size: 100%;
+}
+
+#layoutAuthentication_content.backgroundContact{
+    background-image: url("../images/unnamed.jpg ");
+}
+
+#layoutAuthentication_content.backgroundLogin{
+    background-image: url("../images/lock.jpg ");
+}
+#layoutAuthentication_content.background404{
+    background-image: url("../images/lost.jpg ");
+    background-color: white;
+}
+
+h2,h1,h3,h4{
+    color:  antiquewhite;
+    font-family: 'Playfair Display SC', serif;
+}
+#h2single{
+    color: black !important;
+    font-family: 'Playfair Display SC', serif;
+}
+#h1single{
+    font-family: 'Playfair Display SC', serif;
+}
+#psingle, th, #payer{
+    font-family: 'Playfair Display SC', serif;
+    font-size: large;
+}
+#psingleprix{
+    font-family: 'Playfair Display SC', serif;
+    font-size: xx-large;
+    
+}
+
+.linkedin{
+    color: #cb9d32 !important;
+}
+#h2com, #avis{
+    font-family: 'Playfair Display SC', serif;
+    color: #cb9d32 !important;
+}
+#client{
+    font-family: 'Playfair Display SC', serif;
+}
+#btnSearch{
+    padding-top: 30px;
+}
+
+.page-item.active .page-link {
+    color: black;
+    background-color: #cb9d32;
+    border-color: #cb9d32;
+}
+
+.page-link{
+    color: black;
+}
+#fb , #tw, #contactcacher{
+    position: absolute;
+    top: 75.5%;
+    left: 19.5%;
+        transform: translate(-50%,-50%);
+        color: rgba(0, 0, 0, 0)!important;
+        
+}
+
+#fb{
+    left: 28.5%;
+}
+#contactcacher{
+    left: 40.5%;
+}
+#h3n{
+    color: black;
+}
