@@ -68,15 +68,21 @@ main , body{
 }
 
 #layoutAuthentication_content.backgroundContact{
-    background-image: url("../images/unnamed.jpg ");
+    background-image: url("../images/unnamed.jpg ") ;
+    background-size: cover;
+    background-position: center;
 }
 
 #layoutAuthentication_content.backgroundLogin{
-    background-image: url("../images/lock.jpg ");
+    background-image: url("../images/lock.jpg ")no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 #layoutAuthentication_content.background404{
-    background-image: url("../images/lost.jpg ");
+    background-image: url("../images/lost.jpg ")no-repeat;
     background-color: white;
+    background-size: cover;
+    background-position: center;
 }
 
 h2,h1,h3,h4{
